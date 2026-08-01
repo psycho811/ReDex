@@ -509,7 +509,11 @@ main > .hero:first-child {
 
 .footer .content {
   color: var(--text-secondary);
-  line-height: 1.7;
+  line-height: 1.3;
+}
+
+.footer .content p {
+  margin-bottom: 0.35rem;
 }
 
 .footer a {
